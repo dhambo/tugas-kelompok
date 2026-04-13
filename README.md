@@ -16,7 +16,7 @@
 
 * NIM: (2501010333)
 
-* GitHub: (Link GitHub)
+* GitHub: ([Link GitHub](https://github.com/dhambo/tugas-kelompok.git))
 
 ---
 
