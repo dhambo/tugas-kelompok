@@ -10,7 +10,7 @@
 
 * NIM: (2501010337)
 
-* GitHub: (Link GitHub)
+* GitHub: (https://github.com/dhambo/tugas-kelompok.git)
 
 * Nama Anggota 2: (Apoilinarisa Jack Herment)
 
